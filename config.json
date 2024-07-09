@@ -1,0 +1,16 @@
+{
+    "token": "your_token",
+    "max_messages": 5,
+    "max_repeated": 3,
+    "max_links": 2,
+    "min_account_age": 7,
+    "log_channel": "security-logs",
+    "max_warnings": 3,
+    "raid_threshold": 10,
+    "banned_words": ["badword1", "badword2", "badword3"],
+    "suspicious_names": ["scammer", "hacker", "spammer"],
+    "abuseipdb_key": "YOUR_ABUSEIPDB_API_KEY",
+    "known_spam_hashes": ["hash1", "hash2", "hash3"],
+    "min_sentiment_threshold": -0.5,
+    "inactive_days": 30
+}
